@@ -1,4 +1,4 @@
-baseurl = "https://Danyanne.github.io/personal-site/"
+baseURL = "https://danyanne.github.io/personal-site/"
 title = "Daniel Ctvrtecka"
 theme = "hugo-coder"
 languagecode = "en"

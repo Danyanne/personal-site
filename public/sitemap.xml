@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/personal-site/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/cv/</loc>
+    <loc>//localhost:1313/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/posts/test_blog/</loc>
+    <loc>//localhost:1313/posts/test_blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/projects/test_projects/</loc>
+    <loc>//localhost:1313/projects/test_projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/series/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-site/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
