@@ -20,7 +20,7 @@ style = "github-dark"
   info = "I am theoretical physics student at Imperial College London."
   description = "Daniel Ctvrtecka's personal website"
   keywords = "physics,machine learning,quantum technologies,fusion,blog"
-  avatarurl = "/static/images/kellner_blog_profilova.jpg"
+  avatarurl = "/images/kellner_blog_profilova.jpg"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -53,7 +53,7 @@ style = "github-dark"
   name = "Linkedin"
   icon = "fa-brands fa-linkedin fa-3x"
   weight = 2
-  url = "www.linkedin.com/in/daniel-quarterdot"
+  url = "https://www.linkedin.com/in/daniel-quarterdot"
 [[params.social]]
   name = "Scholarship website page about me"
   icon = "fa-solid fa-globe fa-3x"

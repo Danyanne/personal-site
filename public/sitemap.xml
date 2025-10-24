@@ -10,11 +10,13 @@
   </url><url>
     <loc>//localhost:1313/posts/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/test_blog/</loc>
-  </url><url>
     <loc>//localhost:1313/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/test_projects/</loc>
+    <loc>//localhost:1313/projects/bessel-ml/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/boltzmann-solver/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/new-spectrometer-analysis/</loc>
   </url><url>
     <loc>//localhost:1313/authors/</loc>
   </url><url>
