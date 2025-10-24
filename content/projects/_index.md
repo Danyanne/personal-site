@@ -1,1 +1,1 @@
-Here you will find what I have been working on so far
+Here you will find articles about projects I have done so far

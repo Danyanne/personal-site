@@ -17,10 +17,11 @@ style = "github-dark"
 
 [params]
   author = "Daniel Ctvrtecka"
-  info = "Theoretical Physics student passionate about the intersection of Physics and Machine Learning"
+  info = "Welcome to my website!
+I am currently theoretical physics student at Imperial College London, academically intersted in the intersection of machine learning and physics. Feel free to explore my "
   description = "Daniel Ctvrtecka's personal website"
   keywords = "physics,machine learning,quantum technologies,fusion,blog"
-  avatarurl = "/images/kellner_blog_profilova.jpg"
+  avatarurl = "static/images/kellner_blog_profilova.jpg"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
