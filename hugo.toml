@@ -1,4 +1,5 @@
-baseURL = "https://danyanne.github.io/personal-site/"
+baseURL = "www.example.com"
+# "https://danyanne.github.io/personal-site/"
 title = "Daniel Ctvrtecka"
 theme = "hugo-coder"
 languagecode = "en"
