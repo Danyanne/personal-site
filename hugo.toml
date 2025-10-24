@@ -20,7 +20,7 @@ style = "github-dark"
   info = "I am theoretical physics student at Imperial College London."
   description = "Daniel Ctvrtecka's personal website"
   keywords = "physics,machine learning,quantum technologies,fusion,blog"
-  avatarurl = "/images/kellner_blog_profilova.jpg"
+  #avatarurl = "/images/kellner_blog_profilova.jpg"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
