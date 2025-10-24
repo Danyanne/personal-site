@@ -1,0 +1,88 @@
+baseurl = ""https://Danyanne.github.io/personal-site/""
+title = "Daniel Ctvrtecka"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Daniel Ctvrtecka"
+  info = "Theoretical Physics student passionate about the intersection of Physics and Machine Learning"
+  description = "Daniel Ctvrtecka's personal website"
+  keywords = "physics,machine learning,quantum technologies,fusion,blog"
+  avatarurl = "/images/kellner_blog_profilova.jpg"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2025
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-3x"
+  weight = 1
+  url = "https://github.com/Danyanne/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa-brands fa-linkedin fa-3x"
+  weight = 2
+  url = "www.linkedin.com/in/daniel-quarterdot"
+[[params.social]]
+  name = "Scholarship website page about me"
+  icon = "fa-solid fa-globe fa-3x"
+  weight = 3
+  url = "https://www.bakalafoundation.org/stipendiste/daniel-ctvrtecka/"
+
+
+# Menu links
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url  = "posts/"
+
+[[menu.main]]
+  name = "CV"
+  weight = 4
+  url = "cv/"
+
+[[menu.main]]
+  name = "Contact Me"
+  weight = 5
+  url = "contact/"
