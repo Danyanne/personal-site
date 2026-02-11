@@ -3,7 +3,7 @@
 
 ---
 
-### 📄 [Download Full CV as PDF](../assets/Daniel_Ctvrtecka_Resume.pdf)
+### 📄 [Download Full CV as PDF](files/Daniel_Ctvrtecka_Resume.pdf)
 
 ---
 
@@ -75,4 +75,4 @@ Imperial Physics undergraduate specialising in the intersection of physics and m
 * Amateur guitar, chess, and table tennis.
 
 ---
-**[Back to Top](#daniel-ctvrtecka) | [Download PDF](/assets/Daniel_Ctvrtecka_Resume.pdf)**
+**[Back to Top](#daniel-ctvrtecka) | [Download PDF](files/Daniel_Ctvrtecka_Resume.pdf)**
