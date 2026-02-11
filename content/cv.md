@@ -2,12 +2,6 @@
 **Imperial College London Physics Undergraduate** [dan.ctvrta@email.cz](mailto:dan.ctvrta@email.cz) | [LinkedIn](www.linkedin.com/in/daniel-quarterdot)
 
 ---
-### Download full CV as a pdf:
-<a href="/personal-site/assets/Daniel_Ctvrtecka_Resume.pdf" download="Daniel_Ctvrtecka_Resume.pdf">
-   Download CV (PDF)
-</a>
-
----
 
 ## Summary
 Imperial Physics undergraduate specialising in the intersection of physics and machine learning. Awarded multiple prestigious scholarships and the Dean's List award for academic excellence.
