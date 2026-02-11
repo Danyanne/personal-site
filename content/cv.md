@@ -2,9 +2,10 @@
 **Imperial College London Physics Undergraduate** [dan.ctvrta@email.cz](mailto:dan.ctvrta@email.cz) | [LinkedIn](www.linkedin.com/in/daniel-quarterdot)
 
 ---
-
-### 📄 [Download Full CV as PDF](../assets/Daniel_Ctvrtecka_Resume.pdf)
-
+### Download full CV as a pdf:
+<a href="/personal-site/assets/files/Daniel_Ctvrtecka_Resume.pdf" download="Daniel_Ctvrtecka_Resume.pdf">
+   Download CV (PDF)
+</a>
 
 ---
 
@@ -76,4 +77,4 @@ Imperial Physics undergraduate specialising in the intersection of physics and m
 * Amateur guitar, chess, and table tennis.
 
 ---
-**[Back to Top](#daniel-ctvrtecka) | [Download PDF](/personal-site/assets/Daniel_Ctvrtecka_Resume.pdf)**
+**[Back to Top](#daniel-ctvrtecka)
