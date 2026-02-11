@@ -3,7 +3,7 @@
 
 ---
 ### Download full CV as a pdf:
-<a href="/personal-site/assets/files/Daniel_Ctvrtecka_Resume.pdf" download="Daniel_Ctvrtecka_Resume.pdf">
+<a href="/personal-site/assets/Daniel_Ctvrtecka_Resume.pdf" download="Daniel_Ctvrtecka_Resume.pdf">
    Download CV (PDF)
 </a>
 
